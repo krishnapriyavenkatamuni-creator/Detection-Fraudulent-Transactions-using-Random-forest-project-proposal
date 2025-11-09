@@ -1,0 +1,2 @@
+# Detection-Fraudulent-Transactions-using-Random-forest-project-proposal
+This project covers the complete process — from data collection and preprocessing to model training, testing, and evaluation — ensuring accurate and efficient detection. The model can be applied to various financial platforms suchas online banking, credit card systems, e-commerce payment gateways and digital wallets to enhance transaction security.
